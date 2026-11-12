@@ -1,4 +1,1 @@
-hi all
-
-hi you guys
-This is vs code for practice first
+This is first code 
