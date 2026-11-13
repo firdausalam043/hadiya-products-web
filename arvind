@@ -1,1 +1,10 @@
 devops class
+
+Assignment 1
+
+1. Creat 2 private Github Repos.
+    a. hadiya-products-web
+    b. hadiya-products-api
+
+2. Configure SSH based authentication for the Repos.
+3. Push the files to their respective repo.
